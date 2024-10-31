@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E11AFAE52CD33A19002875A4 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11AFAE42CD33A19002875A4 /* ProductModel.swift */; };
 		E15002EA2BB7C94A006C6F58 /* wordlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15002E92BB7C94A006C6F58 /* wordlApp.swift */; };
 		E15002EC2BB7C94A006C6F58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15002EB2BB7C94A006C6F58 /* ContentView.swift */; };
 		E15002EE2BB7C94C006C6F58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E15002ED2BB7C94C006C6F58 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E11AFAE42CD33A19002875A4 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
 		E15002E62BB7C94A006C6F58 /* wordl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wordl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E15002E92BB7C94A006C6F58 /* wordlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordlApp.swift; sourceTree = "<group>"; };
 		E15002EB2BB7C94A006C6F58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -147,6 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				E15C4A562CCCB61D00AC2057 /* CategoryModel.swift */,
+				E11AFAE42CD33A19002875A4 /* ProductModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				E15C4A572CCCB61D00AC2057 /* CategoryModel.swift in Sources */,
 				E15C4A542CCCB35200AC2057 /* Home.swift in Sources */,
 				E15002EA2BB7C94A006C6F58 /* wordlApp.swift in Sources */,
+				E11AFAE52CD33A19002875A4 /* ProductModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
